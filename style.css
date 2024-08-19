@@ -1,0 +1,176 @@
+.as{
+    text-decoration: none;
+    margin-left: 10px;
+}
+.on:hover{
+color: blue;
+
+}
+.tw:hover{
+color: purple;
+font-size: 300%;
+font-weight: 900;
+border: 2px solid black;
+background-color: gold;
+text-shadow: 5px 5px 5px blue ;
+}
+.th:hover{
+    color: purple;
+    font-size: 300%;
+font-weight: 900;
+border: 2px solid black;
+background-color: gold;
+text-shadow: 5px 5px 5px blue ;
+}
+.fo:hover{
+    color: purple;
+    font-size: 300%;
+font-weight: 900;
+border: 2px solid black;
+background-color: gold;
+text-shadow: 5px 5px 5px blue ;
+}
+.fi:hover{
+    color: purple;
+    font-size: 300%;
+font-weight: 900;
+border: 2px solid black;
+background-color:gold;
+text-shadow: 5px 5px 5px blue ;
+}
+.si:hover{
+    color: purple;
+    font-size: 300%;
+font-weight: 900;
+border: 2px solid black;
+background-color: gold;
+text-shadow: 5px 5px 5px blue ;
+}
+.se:hover{
+    color: purple;
+    font-size: 300%;
+font-weight: 900;
+border: 2px solid black;
+background-color: gold;
+text-shadow: 5px 5px 5px blue ;
+}
+.ei:hover{
+    color: purple;
+    font-size:300%;
+font-weight: 900;
+border: 2px solid black;
+background-color: gold;
+text-shadow: 5px 5px 5px blue ;
+}
+/* .ni:hover{
+    color: purple;
+    font-size: 300%;
+font-weight: 900;
+border: 2px solid black;
+}
+.te:hover{
+    color: purple;
+    font-size: 300%;
+font-weight: 900;
+border: 2px solid black;
+} */
+a{
+    color: purple;
+    font-size:300%;
+font-weight: 900;
+text-shadow: 5px 5px 5px rgb(7, 47, 244) ;
+
+}
+p{
+    color:blue;
+    font-size:300 ;
+font-weight: 900;
+font-size: 400%;
+text-shadow: 5px 5px 5px rgb(255, 0, 191) ;
+}
+.am{
+    color: green;
+    font-size: larger;
+font-weight: 900;
+border: 2px solid black;
+text-shadow: 5px 5px 5px rgb(58, 245, 12) ;
+}
+body{
+    text-align: center;
+    font-style: italic;
+}
+h1{color: darkred;
+    font-size:300 ;
+font-weight: 900;
+font-size: 500%;
+text-shadow: 5px 5px 5px rgb(228, 73, 73) ;
+}
+h2{
+    color: darkgreen;
+    font-size:300 ;
+font-weight: 900;
+font-size: 490%;
+text-shadow: 5px 5px 5px rgb(21, 226, 76) ;
+}
+h3{
+    color: indigo;
+    font-size:300 ;
+font-weight: 900;
+font-size: 470%;
+text-shadow: 5px 5px 5px rgb(248, 9, 212) ;
+}
+img{
+    width: 600px;
+    height: 500px;
+}
+.aa{
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/007/994/607/small_2x/rainbow-coloured-hand-painted-watercolour-background-free-vector.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.on{
+    background-image: url('https://media.istockphoto.com/id/2152938796/photo/abstract-yellow-and-black-are-light-pattern-with-the-gradient-is-the-with-floor-wall-metal.webp?b=1&s=170667a&w=0&k=20&c=JS65Mh4K1FL_lY-uSrKpzjNNpFkXruvo32ywo8XWnAM=');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.two{
+    background-image: url('https://img.freepik.com/free-photo/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner_1258-63452.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.thr{
+    background-image: url('https://img.freepik.com/free-vector/abstract-watercolor-pastel-background_87374-139.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.fou{
+    background-image: url('https://img.freepik.com/free-photo/luxury-plain-green-gradient-abstract-studio-background-empty-room-with-space-your-text-picture_1258-63606.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.fiv{
+    background-image: url('https://t3.ftcdn.net/jpg/06/79/59/94/360_F_679599437_7NBMan1MafvlpaubGTg8dughMscSvPk5.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.six{
+    background-image: url('https://www.shutterstock.com/shutterstock/photos/364387982/display_1500/stock-photo-abstract-blurred-pink-tone-lights-background-364387982.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.seven{
+    background-image: url('https://www.shutterstock.com/shutterstock/photos/364387982/display_1500/stock-photo-abstract-blurred-pink-tone-lights-background-364387982.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+a{
+    padding-left: 2%;
+}
